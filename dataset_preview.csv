@@ -1,0 +1,11 @@
+ChargerCompany,Location,ChargerType,StartHour,DayOfWeek,Month,IsWeekend,Duration
+1,hotel,0,20,Thursday,9,False,185
+1,hotel,0,20,Wednesday,9,False,90
+1,hotel,0,18,Wednesday,9,False,60
+1,hotel,0,18,Thursday,9,False,344
+1,hotel,0,19,Sunday,9,True,300
+1,hotel,0,14,Saturday,9,True,70
+1,hotel,0,18,Thursday,8,False,60
+1,hotel,0,19,Wednesday,8,False,494
+1,hotel,0,19,Tuesday,8,False,60
+1,hotel,0,19,Sunday,8,True,112
